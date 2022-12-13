@@ -1,0 +1,9 @@
+### create a order from ms-order
+POST http://localhost:8080/api/v1/orders
+Content-Type: application/json
+
+{
+  "name": "demo order 2",
+  "qty": 4,
+  "price": 9000
+}
