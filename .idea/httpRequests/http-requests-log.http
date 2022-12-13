@@ -1,0 +1,52 @@
+POST http://localhost:8080/api/v1/orders
+Content-Type: application/json
+
+{
+  "name": "demo order 2",
+  "qty": 4,
+  "price": 9000
+}
+
+<> 2022-12-12T155541.200.txt
+
+###
+
+POST http://localhost:8080/api/v1/orders
+Content-Type: application/json
+
+{
+  "name": "demo order",
+  "qty": 3,
+  "price": 7000
+}
+
+<> 2022-12-12T154953.200.txt
+
+###
+
+POST http://localhost:8080/api/v1/orders
+Content-Type: application/json
+
+{
+  "name": "demo order 2",
+  "qty": 3,
+  "price": 7000
+}
+
+<> 2022-12-12T151952.200.txt
+
+###
+
+POST http://localhost:8080/api/v1/orders
+Content-Type: application/json
+
+{
+  "name": "demo order",
+  "qty": 5,
+  "price": 5000
+}
+
+<> 2022-12-12T144312.200.txt
+
+###
+
